@@ -1,0 +1,6 @@
+{
+  "name": "Yono Pay",
+  "description": "Fintech demo and sandbox payment and commission management platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
